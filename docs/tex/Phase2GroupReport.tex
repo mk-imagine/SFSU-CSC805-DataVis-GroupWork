@@ -3,7 +3,9 @@
     xcolor,
     hyperref,
     geometry,
-    multicol
+    multicol,
+    enumitem,
+    graphicx
 }
 \hypersetup{
     colorlinks,
@@ -12,6 +14,7 @@
     urlcolor={blue!80!black}
 }
 \geometry{margin=1in}
+\graphicspath{{./images/}}
 
 
 \title{CSC 805 - Data Visualization\\\large Visualization Project - Phase 2}
@@ -21,9 +24,94 @@
 \begin{document}
 \maketitle
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% WIREFRAME
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Wireframe}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TREE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The visualization will be organized with a home page and four visualization
+pages as can be shown in Figure \ref{fig:tree}.  The first page will be our
+landing page, with the second page being the overview of the data we will be
+presenting.  The second page will show charging infrastructure information,
+followed by EV adoption trends, with the final page showing in-depth city
+analyses.
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.4]{Tree.png}
+    \caption{Page Organization Tree}
+    \label{fig:tree}
+\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% HOME
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Our home page shown in Figure \ref{fig:home} will contain a short
+description of our data, our visualizations, and direct the user to the
+information they are seeking.  Finally, the home page will let the user know the
+purpose of our visualization.
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.25]{Home}
+    \caption{Home Page}
+    \label{fig:home}
+\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% OVERVIEW
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The first actual visualization will be our overview.  This page (Figure \ref{fig:overview}) will give a
+broad understanding of the current number of EV's registered, charging stations,
+and trends in growth of both.  Likewise, we intend to include correlations
+between these statistics in Washington State and other states in the US where
+data is available.
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.25]{Overview}
+    \caption{Overview}
+    \label{fig:overview}
+\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CHARGING INFRASTRUCTURE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The second set of visualizations will provide a much deeper look into charging
+infrastructure.  Placeholder text for Figure \ref{fig:charge}
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.25]{Charging Infrastructure}
+    \caption{Charging Infrastructure}
+    \label{fig:charge}
+\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% EV TRENDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Placeholder text for Figure \ref{fig:evtrends}
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.25]{EV Trends}
+    \caption{EV Trends}
+    \label{fig:evtrends}
+\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CITY ANALYSIS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Placeholder text for Figure \ref{fig:city}
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.25]{City Analysis}
+    \caption{City Analysis}
+    \label{fig:city}
+\end{figure}
+
 \section*{Data}
+\subsection*{Preprocessed and Cleaned}
+\href{https://github.com/mk-imagine/csc805g5/tree/main/data}{GitHub Repository of Data}
 \subsection*{Source}
 \href{https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2}{Washington State Electric Vehicle Population Data}\vspace*{5pt}\\
 \href{https://afdc.energy.gov/data_download}{Alternative Fuel Stations By State (Updated 10-12-2023)}\vspace*{5pt}\\
@@ -32,7 +120,9 @@
 Registration Data By State} (This is a massive data set and requires further
 cleaning and integration):
 \begin{multicols}{4}
-    \begin{enumerate}
+    \begin{enumerate}[topsep=0pt, partopsep=0pt, itemsep=1pt, parsep=1pt]
+        % \setlength{\itemsep}{0pt}
+        % \setlength{\parskip}{0pt}
         \item California
         \item Colorado
         \item Connecticut
@@ -51,8 +141,8 @@ cleaning and integration):
         \item Wisconsin
     \end{enumerate}
 \end{multicols}
-\subsection*{Processed Data}
-\href{}{GitHub Repository of Data}
+
 \section*{Technologies}
+We will be using Tableau to build our visualization system.
 
 \end{document}
