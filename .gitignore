@@ -4,6 +4,9 @@
 # VS Code
 .vscode
 
+# Excel temporary files
+~$*.xlsx
+
 # Conda Virtual Environment
 .conda_config
 
