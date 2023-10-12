@@ -33,3 +33,6 @@
 *.synctex.gz
 *.synctex.gz(busy)
 *.pdfsync
+
+# Large Files
+ca_ev_registrations_public.csv
