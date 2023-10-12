@@ -1,0 +1,577 @@
+Law Id,State,Title,Text,Enacted Date,Amended Date,Recent?,Sequence Number,Type,Agency,Significant Update Date,Expired Date,Archived Date,Repealed Date,Topic,Technology Categories,Incentive Categories,Regulation Categories,User Categories,References,Status,Status Date
+6212,WA,State Electric Vehicle (EV) Charging Infrastructure Availability,"Publicly and privately owned EVs may charge at state office locations if
+the vehicles are used for state business, conducting business with the
+state, or as commuter vehicles. Additionally, contingent upon funding,
+the state must install electrical outlets suitable for charging EVs in
+each of the state's fleet parking and maintenance facilities as well as
+every state-operated highway rest stop. The Washington Department of
+Enterprise Services may report to the governor and the legislature on
+the amount of electricity consumed and the number of EVs using
+state-owned charging equipment if it represents a significant cost to
+the state.
+
+(Reference [Revised Code of Washington 43.01.250, 43.19.648, and 47.38.075](http://apps.leg.wa.gov/rcw/))",2007-05-07 00:00:00 UTC,2015-05-01 00:00:00 UTC,false,95,Laws and Regulations,"",2015-06-12 19:45:54 UTC,,,,"",ELEC|PHEV,"",REQ,STATION|GOV|IND,http://apps.leg.wa.gov/rcw/,amended,2015-05-01
+6531,WA,Electric Vehicle (EV) Promotion and Infrastructure Development,"Any regional transportation planning organization containing a county
+with a population greater than one million must collaborate with state
+and local governments to promote EV use, invest in EV charging
+infrastructure, and seek federal or private funding for these efforts.
+Collaborative planning efforts may include:
+
+-   Developing short- and long-term plans outlining how state, regional,
+    and local governments may construct electric vehicle supply
+    equipment locations and ensure that the infrastructure can be
+    electrically supported;
+-   Supporting public education and training programs on EVs;
+-   Developing an implementation plan for counties with a population
+    greater than 500,000 to have 10% of public and private parking
+    spaces ready for EV charging by December 31, 2018; and
+-   Developing model ordinances and guidance for local governments for
+    site assessment and installing EV infrastructure.
+
+(Reference [Revised Code of Washington 47.80.090](http://apps.leg.wa.gov/rcw/))",2009-05-13 00:00:00 UTC,,false,90,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",REQ,OTHER,http://apps.leg.wa.gov/rcw/,enacted,2009-05-13
+6532,WA,Electric Vehicle (EV) and Fuel Cell Electric Vehicle (FCEV) Infrastructure and Battery Tax Credit,"Public lands used for installing, maintaining, and operating EV chargers
+are exempt from leasehold excise taxes. Additionally, the state sales
+and use taxes do not apply to EV and FCEV batteries or fuel cells; labor
+and services for installing, repairing, altering, or improving EV and
+FCEV batteries fuel cells, or EV and FCEV infrastructure; the sale of
+property used for EV and hydrogen fueling infrastructure; and the sale
+of zero emission buses.
+
+(Reference [Revised Code of Washington 82.29A.125, 82.08.816, and 82.12.816](http://apps.leg.wa.gov/rcw/))",2009-05-13 00:00:00 UTC,2019-05-07 00:00:00 UTC,false,15,State Incentives,"",2019-06-07 21:22:38 UTC,2025-07-01 00:00:00 UTC,,,"",ELEC|HY|PHEV,EXEM|TAX,"",STATION|MAN,http://leg.wa.gov/|http://apps.leg.wa.gov/rcw/,amended,2019-05-07
+6533,WA,Electric Vehicle (EV) and Battery Exchange Station Regulations,"State and local governments may lease land for installing, maintaining,
+and operating EV charging stations or electric vehicle battery exchange
+stations for up to 50 years for at least \$1 per year. Additionally, the
+installation of battery charging and exchange stations is categorically
+exempt from the Washington Environmental Policy Act.
+
+(Reference [Revised Code of Washington 79.13.100 and 43.21C.410](http://apps.leg.wa.gov/rcw/))",2009-05-13 00:00:00 UTC,,false,110,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",OTHER,STATION|OTHER,http://apps.leg.wa.gov/rcw/,enacted,2009-05-13
+6534,WA,Electric Vehicle (EV) Infrastructure Definitions,"EV infrastructure is defined as structures, machinery, and equipment
+necessary and integral to support a EV, including battery charging
+stations, rapid charging stations, and battery exchange stations. A
+battery charging station is defined as an electrical component assembly
+or cluster of component assemblies designed specifically to charge
+batteries within a EV. A rapid charging station is defined as an
+industrial grade electrical outlet that allows for faster recharging of
+EV batteries through higher power levels. A battery exchange station is
+defined as a fully automated facility that will enable a EV with a
+swappable battery to enter a drive lane and exchange the depleted
+battery with a fully charged battery through a fully automated process.
+Infrastructure must meet or exceed any applicable state building
+standards, codes, and regulations.
+
+(Reference [Revised Code of Washington 19.27.540, 19.28.281, and 47.80.090](http://apps.leg.wa.gov/rcw/))",2009-05-13 00:00:00 UTC,,false,120,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",OTHER,OTHER,http://apps.leg.wa.gov/rcw/,enacted,2009-05-13
+6538,WA,Local Government Electric Vehicle (EV) Infrastructure Requirements,"Jurisdictions must develop regulations to allow the use of EV
+infrastructure and battery charging stations in all areas except
+critical areas or areas zoned for residential or resource use. The
+Washington Department of Commerce included a model ordinance,
+development regulations, and guidance for local governments for site
+assessment and installing EV infrastructure in [Electric Vehicle
+Infrastructure: A Guide for Local Governments in Washington
+State](https://www.psrc.org/sites/default/files/2022-03/electric-vehicle-guidance.pdf).
+This requirement applies to jurisdictions that meet specific location
+criteria and is contingent upon federal funding. Additionally, cities or
+municipalities may adopt incentive programs to encourage retrofitting of
+existing structures capable of charging EVs.
+
+(Reference [Revised Code of Washington 35.63.126, 35.63.127, 35A.63.107, 36.70.695, 36.70A.695, and 43.31.970](http://apps.leg.wa.gov/rcw/))",2009-05-13 00:00:00 UTC,,false,105,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",OTHER,OTHER,http://apps.leg.wa.gov/rcw/,enacted,2009-05-13
+8220,WA,Low Carbon Fuel and Fuel-Efficient Vehicle Acquisition Requirement,"Washington state agencies must consider purchasing low carbon fuel
+vehicles or converting conventional vehicles to use low carbon fuels
+when financially comparable over the vehicle's useful life. Low carbon
+fuels include hydrogen, biomethane, electricity, or natural gas blends
+of at least 90%. State agencies must achieve an average fuel economy of
+36 miles per gallon (mpg) for passenger vehicle fleets in motor pools
+and leased conventional vehicles. State agencies must also purchase low
+carbon fuel vehicles or, when purchasing new conventional vehicles,
+achieve an average fuel economy of 40 mpg for light-duty passenger
+vehicles and 27 mpg for light-duty vans and sport utility vehicles. When
+calculating average fuel economy, emergency response vehicles, passenger
+vans with a gross vehicle weight rating of 8,500 pounds or greater,
+off-road vehicles, low carbon fuel vehicles, and vehicles driven less
+than 2,000 miles per year are excluded.
+
+(Reference [Revised Code of Washington 43.19.622](http://apps.leg.wa.gov/rcw/))",,2010-03-22 00:00:00 UTC,false,200,Laws and Regulations,"",,,,,"",ELEC|EFFEC|HY|NG|PHEV,"",REQ,GOV,http://apps.leg.wa.gov/rcw/,amended,2010-03-22
+9974,WA,Electric Vehicle (EV) Fee,"Owners of all-electric and plug-in hybrid electric vehicles with an
+all-electric range of at least 30 miles must pay an annual registration
+fee of \$150 and a \$75 transportation electrification fee in addition
+to standard vehicle fees. The transportation electrification fee
+contributes to state programs supporting the adoption of EVs and
+deployment of EV charging infrastructure. Hybrid electric vehicles and
+electric motorcycles are also subject to an additional annual fee of
+\$75 and \$30, respectively.
+
+(Reference [Revised Code of Washington 46.17.323-324](http://apps.leg.wa.gov/rcw/))",2012-03-23 00:00:00 UTC,2022-03-24 00:00:00 UTC,false,100,Laws and Regulations,"",2023-01-20 15:51:15 UTC,,,,"",ELEC|HEV|PHEV,"",EVFEE|FUEL,FLEET|IND,http://apps.leg.wa.gov/rcw/|http://leg.wa.gov/|http://apps.leg.wa.gov/rcw/|https://apps.leg.wa.gov/billinfo/,amended,2022-03-24
+9975,WA,Electric Vehicle (EV) Road User Assessment System Pilot,"The Washington Transportation Commission (Commission) studied the
+feasibility of transitioning from a fuel tax to a road user assessment
+system in the state. In 2012, the Commission conducted a limited scope
+pilot project to test the feasibility of this new system as it applies
+to EVs and published outcomes in a
+[report](https://www.wsdot.wa.gov/research/reports/fullreports/807.1.pdf).
+The Commission began a year-long pilot project in fall 2017. On January
+13, 2020, the Commission submitted a
+[report](https://waroadusagecharge.org/final-report/) of findings and
+recommendations to the governor, state legislature, and the U.S.
+Department of Transportation. The state legislature directed the
+Commission to further study aspects of the road usage charge program,
+including:
+
+-   The impact of a road usage charge, incentives, and other factors on
+    consumer purchase of EVs and conduct a test with drivers to assess
+    impacts;
+-   Delivery vehicle fleets and how a road usage charge may be applied,
+    identify potential impacts to fleet operations and costs, state
+    department of transportation revenues, and conduct a pilot test;
+-   The process for changing vehicle ownership and determine the
+    possible implications and identify the process needed for
+    reconciling a road usage charge owed between sellers and purchases
+    of used vehicles; and,
+-   Opportunities for achieving large-scale data integration to support
+    road usage charge service provisions that could be offered by
+    private-sector service providers and conduct pilot tests to
+    determine the ability of services to support automatic mileage
+    reporting and periodic payments services.
+
+For more information, see the Commission [Road Usage Charge
+Assessment](https://waroadusagecharge.org/) website.
+
+(Reference [Senate Bill 5689, 2022](http://leg.wa.gov/))",2012-03-23 00:00:00 UTC,2016-03-25 00:00:00 UTC,false,115,Laws and Regulations,"",2022-04-11 17:21:41 UTC,,,,"",ELEC|PHEV,"",FUEL,FLEET|GOV|IND,http://leg.wa.gov/|http://leg.wa.gov/|http://leg.wa.gov/,amended,2016-03-25
+10554,WA,Public Utility Definition,"An entity that offers electric vehicle supply equipment to the public
+for hire may not have their rates, services, facilities or practices
+regulated by the Washington Utilities and Transportation Commission
+(Commission). The exemption does not apply if the entity is otherwise
+subject to Commission jurisdiction as an electrical company, or if an
+entity's battery charging facilities and services are subsidized by any
+regulated service. A utility may offer battery charging facilities as a
+regulated service, subject to Commission approval.
+
+(Reference [Revised Code of Washington 80.28.320](http://apps.leg.wa.gov/rcw/))",2011-07-22 00:00:00 UTC,,false,60,Laws and Regulations,"",,,,,"",ELEC|PHEV,EXEM,UTILITY,STATION|AFP|FLEET|GOV|OTHER,http://apps.leg.wa.gov/rcw/,enacted,2011-07-22
+10692,WA,Electric Vehicle (EV) Charging Signage and Parking Regulations,"A public EV charging station is defined as a public parking space that
+is served by charging equipment. Public EV charging stations must have
+vertical signage that identifies the station and indicates that it is
+only for EV charging. The signage must be consistent with the U.S.
+Department of Transportation Federal Highway Administration's [Manual on
+Uniform Traffic Control Devices](https://mutcd.fhwa.dot.gov/).
+
+By 2023, all public EV charging stations must also display all charges
+and fees associated with operation. Any person who parks a vehicle in a
+public EV charging station parking space and does not connect to the
+equipment is subject to a fine of \$124.
+
+By 2023, the Department of Agriculture must adopt rules requiring
+electric vehicle service providers (EVSP) to meet interoperability
+standards and offer multiple payment methods at public EV charging
+stations. EVSPs must report inventory and payment information to the
+National Renewable Energy Laboratory annually. Charging stations
+installed before January 1, 2024, are exempt from the rules until
+January 1, 2034.
+
+(Reference [Revised Code of Washington 46.08.185 and 19.94](http://apps.leg.wa.gov/rcw/default.aspx))",2013-04-23 00:00:00 UTC,,false,80,Laws and Regulations,"",2021-06-14 17:52:42 UTC,,,,"",ELEC|PHEV,"",REGIS,STATION|IND,http://apps.leg.wa.gov/rcw/default.aspx|https://leg.wa.gov/|https://leg.wa.gov/,enacted,2013-04-23
+11610,WA,Utility Electrification Plans and Return on Investment Authorization,"Utilities are authorized to submit transportation electrification plans
+that deploy electric vehicle (EV) charging stations or programs and
+incentives that support transportation electrification. Additionally,
+utilities may petition the Washington Utilities and Transportation
+Commission (UTC) for a rate of return on EV charging station installed
+for the benefit of ratepayers through December 31, 2030. The UTC may
+approve an additional 2% to the standard rate of return if the utility
+installs EV charging stations on a fully regulated basis similar to
+other capital investments behind a customer's meter, and the
+expenditures do not increase ratepayer costs more than 0.25%. EV
+charging stations are subject to a depreciation schedule and may be
+gifted to the customer when fully depreciated. The UTC issued a
+[report](https://app.leg.wa.gov/ReportsToTheLegislature/Home/GetPDF?fileName=EVSE%20Report%20to%20the%20Legislature%20-%20Final_a9efaf10-04d7-4c3e-b2df-f0c3da1d06ed.pdf)
+on the use and impacts of the incentive in 2017.
+
+(Reference [Revised Code of Washington 80.28.360](http://apps.leg.wa.gov/rcw))",2015-05-11 00:00:00 UTC,2019-04-30 00:00:00 UTC,false,17,State Incentives,"",2019-05-10 00:34:17 UTC,2030-12-31 00:00:00 UTC,,,"",ELEC|PHEV,OTHER,"",STATION|AFP,http://apps.leg.wa.gov/rcw|http://leg.wa.gov/,amended,2019-04-30
+11803,WA,Alternative Fueling Infrastructure Grant Program,"The Washington State Department of Transportation (WSDOT) offers
+competitive grants to strengthen and expand the [West Coast Electric
+Highway](http://www.westcoastgreenhighway.com/WAelectrichighways.htm)
+network by deploying Level 2 and direct current fast charging (DCFC)
+electric vehicle (EV) chargers and hydrogen fueling infrastructure along
+highway corridors in Washington. Eligible project costs include siting,
+equipment purchases, electrical upgrades, installation, operations, and
+maintenance. For more information, including funding availability and
+application periods, see the WSDOT [Zero Emission Vehicle
+Grants](https://wsdot.wa.gov/business-wsdot/grants/zero-emission-vehicle-grants)
+website.
+
+(Reference [Revised Code of Washington 47.04.350](http://apps.leg.wa.gov/rcw/))",2015-07-16 00:00:00 UTC,2019-05-07 00:00:00 UTC,false,5,State Incentives,"",2019-06-07 20:58:57 UTC,,,,"",ELEC|HY|PHEV,GNT,"",STATION,http://apps.leg.wa.gov/rcw/|http://leg.wa.gov/,amended,2019-05-07
+11951,WA,Volkswagen (VW) Settlement Allocation,"The Washington State Department of Ecology (Ecology) will work with the
+Office of the Governor and state agencies to select projects and
+distribute funding to leverage 15% of Washington\'s portion of the [VW
+Environmental Mitigation
+Trust](https://www.epa.gov/enforcement/volkswagen-clean-air-act-civil-settlement)
+for the acquisition, installation, operation, and maintenance of
+light-duty zero-emission vehicle charging infrastructure.
+
+Ecology will establish a competitive process to identify and select
+projects to fund with the remaining 85% of the appropriation to maximize
+total air pollution reduction and health benefits, improve air quality
+in areas disproportionately affected by air pollution, leverage
+additional matching funds, achieve substantial emission reduction beyond
+what would occur absent the funding, accelerate fleet turnover to the
+cleanest engines, and accelerate adoption of electric vehicles,
+equipment, and vessels. As appropriate, Ecology will work with state
+agencies to select projects and distribute funding. For more
+information, see the Ecology [VW Enforcement
+Action](https://ecology.wa.gov/About-us/How-we-operate/Grants-loans/Find-a-grant-or-loan/Volkswagen-enforcement-action-grants)
+website.
+",2018-03-27 00:00:00 UTC,,false,75,Laws and Regulations,"",2018-04-24 21:28:51 UTC,,,,"",ELEC|HY|PHEV,"",AIRQEMISSIONS,OTHER,"",enacted,2018-03-27
+12211,WA,Utility Electric Transportation Plan Authorization,"The governing authority or commission of an electric utility may adopt
+an electric transportation plan that proves that utility outreach and
+investment in the electrification of transportation infrastructure does
+not increase net costs to ratepayers in excess of 0.025%. The governing
+authority or commission may consider items such as the impact of
+electrification on the utilities load, demand response and load
+management opportunities, system reliability and distribution system
+efficiencies, and interoperability concerns. Upon making this
+determination, electric utilities may offer incentive programs for
+customers.
+
+(Reference [Revised Code of Washington 35.92.450](https://apps.leg.wa.gov/rcw/))",2019-04-23 00:00:00 UTC,,false,85,Laws and Regulations,"",2019-05-10 00:41:38 UTC,,,,"",ELEC|PHEV,"",OTHER,OTHER,https://apps.leg.wa.gov/rcw/|http://leg.wa.gov/|https://apps.leg.wa.gov/rcw/,enacted,2019-04-23
+12222,WA,Green Transportation Grant Program,"The Washington State Department of Transportation (WSDOT) offers grants
+for projects that reduce the carbon intensity of the Washington
+transportation system, including fleet electrification, modification or
+replacement of facilities to facilitate fleet electrification and
+hydrogen fueling, upgrades to electrical transmission and distribution
+systems, and constructing of charging and fueling infrastructure. To be
+eligible, a transit authority must provide matching funding of at least
+20% of the total cost of the project. Priority will be given to projects
+that serve [overburdened
+communities](https://ecology.wa.gov/Air-Climate/Climate-Commitment-Act/Overburdened-communities)
+and underserved populations. For more information, including funding
+availability and program dates, see the WSDOT [Green Transportation
+Capital
+Grants](https://wsdot.wa.gov/transit/grants/green-transportation-capital)
+website.
+
+(Reference [Revised Code of Washington 47.66.120](http://apps.leg.wa.gov/rcw/) and [House Bill 1125, 2023](http://leg.wa.gov/))",2019-05-07 00:00:00 UTC,,false,18,State Incentives,"",2019-06-07 21:05:15 UTC,,,,"",ELEC|HY|PHEV,GNT,"",STATION|GOV|OTHER,http://leg.wa.gov/|http://apps.leg.wa.gov/rcw/|http://leg.wa.gov/,enacted,2019-05-07
+12224,WA,Alternative Fuel Vehicle (AFV) Retail Sales and Use Tax Exemption,"The sale or lease of new or used passenger vehicles, light-duty trucks,
+and medium-duty passenger AFVs is exempt from the state retail sales and
+use tax. Eligible AFVs include those powered by natural gas, propane,
+hydrogen, or electricity. To be eligible, new vehicles may not be valued
+above \$45,000 and used vehicles may not be valued above \$30,000. The
+tax exemption may apply to all or a portion of the vehicle's value. The
+maximum eligible amount for used purchased or leased vehicles is
+\$16,000. The Maximum exemption amounts for vehicles are as follows:
+
+::: {data-align=""center""}
+  Purchase or Lease Year           Maximum New Vehicle Price Eligible for Exemption   Maximum Leased Vehicle Price Eligible for Exemption
+  -------------------------------- -------------------------------------------------- -----------------------------------------------------
+  August 1, 2021 - July 31, 2023   \$20,000                                           \$16,000
+  August 1, 2023 - July 31, 2025   \$15,000                                           \$16,000
+:::
+
+For more information, see the Renewable Energy/Green Incentives section
+of Washington Department of Revenue's [Incentives
+Programs](https://dor.wa.gov/find-taxes-rates/tax-incentives/incentive-programs)
+website.
+
+(Reference [Revised Code of Washington 82.12.9999](http://apps.leg.wa.gov/rcw/))",2019-05-07 00:00:00 UTC,,false,19,State Incentives,"",2019-06-07 21:19:50 UTC,2028-08-01 00:00:00 UTC,,,"",ELEC|HY|NG|PHEV|LPG,EXEM,"",FLEET|GOV|OTHER|IND,http://leg.wa.gov/|http://apps.leg.wa.gov/rcw/|http://apps.leg.wa.gov/rcw/,enacted,2019-05-07
+12225,WA,Alternative Fuel Vehicle (AFV) Technical Assistance and Education Program,"The Washington State University (WSU) [Energy
+Program](http://www.energy.wsu.edu/) must establish and administer a
+technical assistance and education program on the use of AFVs for public
+agencies, including state and local governments. For more information,
+visit the WSU Energy Program [Green Transportation
+Program](http://www.energy.wsu.edu/GreenTransportationProgram.aspx)
+website.
+
+(Reference [Revised Code of Washington 28B.30.903](http://apps.leg.wa.gov/rcw/))",2019-05-07 00:00:00 UTC,,false,117,Laws and Regulations,"",2019-06-07 21:28:59 UTC,,,,"",ELEC|HY|NG|PHEV|LPG,"",OTHER,FLEET|GOV|TRANS,http://apps.leg.wa.gov/|http://apps.leg.wa.gov/rcw/,enacted,2019-05-07
+12385,WA,Mandatory Electric Vehicle (EV) Charging Station Building Standards,"At least one parking space, or 10% of parking spaces rounded to the next
+whole number, must be made-ready for Level 2 EV charging stations at all
+new buildings. Electrical capacity must accommodate the potential to
+serve a minimum of 20% of the total parking spaces with Level 2 EV
+charging stations. For assembly, education, or mercantile buildings, the
+requirements apply only to employee parking spaces. Buildings classified
+as utility or miscellaneous and some residential buildings are exempt
+from these requirements. Additional terms and conditions apply.
+
+(Reference [Revised Code of Washington 51-50-0429](https://apps.leg.wa.gov/rcw/))",2019-05-07 00:00:00 UTC,,false,83,Laws and Regulations,"",2020-04-13 15:43:07 UTC,,,,"",ELEC|PHEV,"",BUILD|OTHER,OTHER,http://leg.wa.gov/|https://apps.leg.wa.gov/rcw/,enacted,2019-05-07
+12472,WA,Medium- and Heavy-Duty (MHD) Zero Emission Vehicle (ZEV) Deployment Support,"California, Colorado, Connecticut, District of Columbia, Hawaii, Maine,
+Maryland, Massachusetts, Nevada, New Jersey, New York, North Carolina,
+Oregon, Pennsylvania, Rhode Island, Vermont, Virginia, and Washington
+(signatory states) signed a [memorandum of
+understanding](https://www.nescaum.org/documents/mhdv-zev-mou-20220329.pdf/)
+(MOU) to support the deployment of medium- and heavy-duty (MHD) ZEVs
+through involvement in a Multi-State ZEV Task Force (Task Force).
+
+In July 2022, the Task Force published a [multi-state action
+plan](https://www.nescaum.org/documents/multi-state-medium-and-heavy-duty-zev-action-plan.pdf)
+to support electrification of MHD vehicles. The action plan includes
+strategies and recommendations to accomplish the goals of the MOU,
+including limiting all new MHD vehicle sales in the signatory states to
+ZEVs by 2050, accelerating the deployment of MHD ZEVs, and ensuring MHD
+ZEV deployment also benefits disadvantaged communities.
+
+For more information, see the [Medium- and Heavy-Duty ZEVs: Action Plan
+Development
+Process](https://www-f.nescaum.org/documents/multi-state-medium-and-heavy-duty-zero-emission-vehicle-action-plan/)
+website.
+",2020-07-14 00:00:00 UTC,,false,152,Laws and Regulations,"",2020-08-03 15:41:14 UTC,,,,"",ELEC|HY|PHEV,"",AIRQEMISSIONS,OTHER,"",enacted,2020-07-14
+12590,WA,Zero Emission Vehicles (ZEVs) Support,"The Department of Commerce must develop and maintain a publicly
+available mapping and forecasting tool that locates and provides
+information on electric vehicle charging and refueling infrastructure.
+Electric utilities with more than 25,000 customers must analyze how
+their resource plans support and account for anticipated levels of ZEV
+use, relevant infrastructure forecasts and associated energy impacts,
+and information from the utilities' transportation electrification
+plans.
+
+(Reference [Revised Code of Washington 19.280.030](http://apps.leg.wa.gov/rcw/default.aspx))",2021-07-25 00:00:00 UTC,,false,77,Laws and Regulations,"",2021-06-11 16:19:58 UTC,,,,"",ELEC|HY|PHEV,"",CCEINIT,GOV,http://apps.leg.wa.gov/rcw/default.aspx,enacted,2021-07-25
+12605,WA,Residential Electric Vehicle (EV) Charging Station Rebate - Snohomish Public Utility District (PUD),"Snohomish PUD offers residential customers a \$350 rebate for the
+purchase and installation of qualified Level 2 EV charging station. For
+more information, see the Snohomish PUD
+[EV](https://www.snopud.com/save-energy/electric-vehicles/residential/tax-credits-rebates/)
+website.
+",,,false,74,Utility / Private Incentives,"",2021-06-14 17:22:55 UTC,,,,"",ELEC|PHEV,RBATE,"",IND,"",,
+12608,WA,Electric Vehicle (EV) Charging Station Rebate – Clark Public Utilities (CPU),"CPU offers customers rebates for the purchase and installation of Level
+2 EV charging station. Rebates are available in the following amounts:
+
+::: {data-align=""center""}
+  Eligible Customers                        EV Charging Station Type                       Rebate Amount
+  ----------------------------------------- ---------------------------------------------- ---------------
+  Residential                               Non-ENERGY STAR certified; not Wi-Fi enabled   \$100
+  Residential                               Mobile connector for 240V outlet               \$100
+  Residential, Commercial, and Industrial   ENERGY STAR certified; Wi-Fi enabled           \$500
+:::
+
+For more information, including funding availability, see the CPU
+[Residential Electric
+Vehicle](https://www.clarkpublicutilities.com/residential-customers/reduce-energy-waste-and-lower-your-bill/all-rebates-incentives-and-low-interest-loans/electric-vehicle-program/)
+website and the CPU [Commercial and Industrial Electric
+Vehicle](https://www.clarkpublicutilities.com/residential-customers/reduce-energy-waste-and-lower-your-bill/all-rebates-incentives-and-low-interest-loans/electric-vehicle-program/)
+website.
+",,,false,74,Utility / Private Incentives,"",2021-06-14 17:32:49 UTC,,,,"",ELEC|PHEV,RBATE,"",IND,"",,
+12614,WA,Electric Vehicle (EV) Charging Station Fees ,"EV charging station ports are subject to the following annual
+registration fees:
+
+-   \$20 per Level 2 port
+-   \$40 per direct current fast charging (DCFC) port
+
+The Department of Agriculture may adopt additional registration fees and
+consider differential fees for electric vehicle service providers
+operating less than 25 public EV charging stations in Washington.
+
+EV charging stations found to be an economic detriment to the customer
+may be subject to a \$200 penalty for the first violation, and \$500
+penalty for the second violation.
+
+(Reference [Revised Code of Washington 19.94.175 and 19.94.517](https://apps.leg.wa.gov/rcw/))",2021-07-25 00:00:00 UTC,,false,81,Laws and Regulations,"",2021-06-14 17:57:38 UTC,,,,"",ELEC|PHEV,"",REGIS,STATION|FLEET,https://apps.leg.wa.gov/rcw/,enacted,2021-07-25
+12692,WA,Electric Vehicle (EV) Charging Station Rebate – Tacoma Public Utility (TPU),"TPU offers residential customers a \$400 rebate, in the form of bill
+credit, for the installation of a Level 2 EV charging station, a smart
+splitter, or a 240-volt outlet. Applicants may receive one rebate per
+installation, up to \$600 total. For more information, see the TPU [EV
+Charging](https://www.mytpu.org/ways-to-save/residential-incentives/ev-charging/)
+website.
+",,,false,71,Utility / Private Incentives,"",2022-04-11 16:20:13 UTC,,,,"",ELEC|PHEV,RBATE,"",IND,"",,
+12693,WA,Electric Vehicle (EV) Charging Station Rebates – Tacoma Public Utility (TPU),"TPU offers rebates for the installation of Level 2 EV charging stations
+at multifamily dwellings and businesses located in the City of Tacoma.
+Rebate amounts for the first two EV charging station ports are available
+in the following amounts:
+
+::: {data-align=""center""}
+  Applicant Type         Standard Rebate Amount                 Rebate for Historically Underinvested Communities
+  ---------------------- -------------------------------------- ---------------------------------------------------
+  Business               60% of project costs, up to \$12,000   80% of project costs, up to \$16,000
+  Multifamily Dwelling   80% of project costs, up to \$16,000   100% of project costs, up to \$20,000
+:::
+
+A rebate of up to \$2,000 is available for every additional EV charging
+station port installed. Applicants may also receive a rebate for 100% of
+utility infrastructure upgrade costs, up to \$25,000, to increase grid
+reliability. For more information, including funding terms and waitlist
+availability, see the TPU [Public Electric Vehicle
+Charging](https://www.mytpu.org/community-environment/clean-renewable-energy/electric-vehicles/public-electric-vehicle-charging/)
+and [Multifamily Dwelling EV
+Charging](https://www.mytpu.org/community-environment/clean-renewable-energy/electric-vehicles/multifamily-dwelling-ev-charging/)
+websites.
+",,,false,72,Utility / Private Incentives,"",2021-10-12 15:55:23 UTC,,,,"",ELEC|PHEV,RBATE,"",STATION|FLEET|MUD,"",,
+12758,WA,Fleet Electric Vehicle (EV) Procurement Requirements,"State executive and small-cabinet agency fleets must procure EVs to
+replace light-, medium-, and heavy- duty internal combustion engine
+(ICE) vehicles once they reach the end of their useful life. Fleets must
+achieve the following procurement requirements:
+
+<div>
+
+</div>
+
+Percentage of Procured Vehicles that Must be EVs
+
+Year
+
+Light Duty
+
+Medium Duty
+
+Heavy Duty
+
+2025
+
+40%
+
+No Requirement
+
+No Requirement
+
+2030
+
+75%
+
+30%
+
+50%
+
+2035
+
+100%
+
+55%
+
+75%
+
+2040
+
+100%
+
+100%
+
+100%
+
+When EVs are not available for medium- and heavy-duty vehicles, fleets
+must prioritize the lowest-emission, cost-effective option available,
+and may procure plug-in hybrid vehicles and hydrogen fuel cell electric
+vehicles.
+
+(Reference [Executive Order 21-04, 2021](https://www.governor.wa.gov/office-governor/official-actions/executive-orders))",2021-11-03 00:00:00 UTC,,false,14,Laws and Regulations,"",2021-12-13 13:46:56 UTC,,,,"",ELEC|HY|PHEV,"",REQ,GOV,https://www.governor.wa.gov/office-governor/official-actions/executive-orders,enacted,2021-11-03
+12809,WA,Electric Vehicle (EV) Infrastructure Support,"Washington utilities joined the National Electric Highway Coalition
+(NEHC), committing to create a network of direct current fast charging
+(DCFC) charging stations connecting major highway systems from the
+Atlantic Coast to the Pacific of the United States. NEHC utility members
+agree to ensure efficient and effective fast charging deployment plans
+that enable long distance EV travel, avoiding duplication among
+coalition utilities, and complement existing corridor DCFC sites. For
+more information, including a list of participating utilities and
+states, see the
+[NEHC](https://www.eei.org/issuesandpolicy/Pages/NEHC.aspx) website.
+",,,false,90,Utility / Private Incentives,"",2022-01-04 16:30:44 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|AFP|IND,"",,
+12860,WA,Zero Emission Vehicle (ZEV) Carshare Grant,"The Zero-emissions Access Program (ZAP), administered by the Washington
+State Department of Transportation (WSDOT), offers grants to nonprofit
+organizations and local governments to design and create a ZEV carshare
+program in underserved and low-to moderate-income communities. Grant
+awards may range from \$50,000 to \$200,000. Eligible projects include:
+
+-   Contract, lease, or purchase of ZEVs;
+-   Construction or installation of correlated charging station or
+    refueling infrastructure; and,
+-   Operational costs to develop, implement, and manage a car share
+    program.
+
+Applicants must provide matching funds as direct contributions or
+gifts-in-kind for at least 10% of the total cost of the project.
+Additional eligibility requirements may apply. For more information,
+including eligible communities and program dates, see the WSDOT [ZEV
+Grants](https://wsdot.wa.gov/business-wsdot/grants/zero-emission-vehicle-grants)
+website.
+
+(Reference [Revised Code of Washington 47.04.355](http://apps.leg.wa.gov/rcw/default.aspx))",2022-01-01 00:00:00 UTC,,false,16,State Incentives,"",2022-04-11 16:12:17 UTC,,,,"",ELEC|HY|PHEV,GNT,"",FLEET|GOV,http://apps.leg.wa.gov/rcw/default.aspx,enacted,2022-01-01
+12861,WA,Electric Vehicle (EV) Time-Of-Use (TOU) Rate – Pacific Power ,"Pacific Power offers residential, commercial, and irrigation customers a
+TOU rate for charging EVs. For more information, including pricing and
+eligibility, visit the Pacific Power
+[TOU](https://www.pacificpower.net/savings-energy-choices/time-of-use.html)
+website.
+",,,false,69,Utility / Private Incentives,"",2022-04-11 16:18:16 UTC,,,,"",ELEC|PHEV,TOU,"",AFP|FLEET|MUD|IND,"",,
+12863,WA,Electric Vehicle (EV) Rebate – Snohomish Public Utility District (PUD),"Snohomish PUD offers residential customers a \$200 rebate, in the form
+of a bill credit, for the purchase or lease of a new or used EV. For
+more information, see the Snohomish PUD
+[EV](https://www.snopud.com/save-energy/electric-vehicles/residential/tax-credits-rebates/)
+website.
+",2022-04-11 00:00:00 UTC,,false,76,Utility / Private Incentives,"",2022-04-11 16:37:55 UTC,,,,"",ELEC|PHEV,RBATE,"",IND,"",enacted,2022-04-11
+12866,WA,Electric Transportation Transition Study,"The Joint Transportation Committee (Committee) must study opportunities
+for high-consumption fuel users (users) to adopt electric vehicles (EVs)
+and make recommendations to the Committees and governor by July 1, 2023.
+The Committee must investigate and determine the following:
+
+Number of users that could utilize EVs for a high percentage of their
+driving needs;
+
+Fuel savings and gallons of fuel displaced if users switch to EVs;
+
+User attitudes and perceptions of EVs; and,
+
+Policies and messages that encourage EV adoption.
+
+(Reference [Senate Bill 5689, 2022](https://apps.leg.wa.gov/billinfo/))",2022-03-25 00:00:00 UTC,,false,215,Laws and Regulations,"",2022-04-11 17:37:54 UTC,,,,"",ELEC|PHEV,"",AIRQEMISSIONS,FLEET|GOV|IND,https://apps.leg.wa.gov/billinfo/|https://apps.leg.wa.gov/billinfo/,enacted,2022-03-25
+12867,WA,Zero Emission Truck Support and Demonstration,"The Northwest Seaport Alliance (NWSA) must establish and coordinate a
+zero-emission truck stakeholder group to lead the development and
+implementation of at least one zero-emission drayage truck demonstration
+project and develop a roadmap to transition the NWSA cargo gateway fleet
+to zero-emission trucks, by 2050.
+
+(Reference [Senate Bill 5689, 2022](https://apps.leg.wa.gov/billinfo/))",2022-03-25 00:00:00 UTC,,false,220,Laws and Regulations,"",2022-04-11 17:40:15 UTC,,,,"",ELEC|HY|PHEV,"",AIRQEMISSIONS,FLEET|GOV,https://apps.leg.wa.gov/billinfo/|https://apps.leg.wa.gov/billinfo/,enacted,2022-03-25
+12868,WA,Electric Vehicle (EV) Charging Stations and Hydrogen Fueling Station Support,"Washington State Department of Transportation (WSDOT) must install
+co-located direct current fast chargers (DCFC) and hydrogen fueling
+stations in the Wenatchee or East Wenatchee area near a state route or
+publicly owned facility. WSDOT must contract with a public utility that
+produces hydrogen or provides technical assistance for hydrogen fueling
+stations.
+
+(Reference [Senate Bill 5689, 2022](https://apps.leg.wa.gov/billinfo/))",2022-03-25 00:00:00 UTC,,false,220,Laws and Regulations,"",2022-04-11 17:42:40 UTC,,,,"",ELEC|HY|PHEV,"",AIRQEMISSIONS,STATION|FLEET|GOV,https://apps.leg.wa.gov/billinfo/|https://apps.leg.wa.gov/billinfo/,enacted,2022-03-25
+12870,WA,Support for Electric Vehicle (EV) and Infrastructure Deployment,"The Washington State Department of Commerce and the Washington State
+Department of Transportation must establish an interagency EV
+coordinating council (Council) to advance transportation
+electrification. The Council must:
+
+-   Develop a state-wide transportation electrification strategy;
+-   Identify electric vehicle infrastructure grant-related funding;
+-   Coordinate grant funding criteria across agency grant programs;
+-   Develop a robust public and private outreach plan that includes
+    engaging with community organizers and local governments;
+-   Create an industry EV advisory committee;
+-   Ensure the new strategies and programs benefit underserved
+    communities; and,
+-   Provide an annual report to legislature committees summarizing EV
+    implementation progress, gaps, and resource needs.
+
+(Reference [House Bill 1853, 2023](https://apps.leg.wa.gov/billinfo/) and [Revised Code of Washington 43.392.040, 43.392.030](https://apps.leg.wa.gov/rcw/))",2022-03-25 00:00:00 UTC,,false,225,Laws and Regulations,"",2022-04-11 17:47:48 UTC,,,,"",ELEC|PHEV,"",AIRQEMISSIONS,STATION|FLEET|GOV|MUD|IND,https://apps.leg.wa.gov/billinfo/|https://apps.leg.wa.gov/rcw/,enacted,2022-03-25
+12873,WA,Electric Vehicle (EV) Deployment Goal,"All light-duty vehicles sold, purchased, or registered in Washington
+state must be EVs by model year 2030. The Interagency EV Coordinating
+Council must develop a plan for achieving this goal by December 31,
+2022.
+
+(Reference [Senate Bill 5974, 2022](https://apps.leg.wa.gov/billinfo/))",2022-03-25 00:00:00 UTC,,false,212,Laws and Regulations,"",2022-04-11 17:57:38 UTC,,,,"",ELEC|PHEV,"",AIRQEMISSIONS,FLEET|GOV|IND,https://apps.leg.wa.gov/billinfo/|https://apps.leg.wa.gov/rcw/,enacted,2022-03-25
+12874,WA,Electric Vehicle (EV) Charging Station Policies for Multi-Unit Dwellings,"A common interest development, including a community apartment,
+condominium, and cooperative development, may not prohibit or restrict
+the installation or use of EV charging stations. These entities may put
+reasonable restrictions on EV charging stations, but the policies may
+not discourage or add obstacles to the use of EV charging stations. The
+EV charging station installer must obtain appropriate approvals from the
+common interest development association, comply with applicable
+architectural standards, engage a licensed installation contractor,
+provide a certificate of insurance, register the EV charging station
+with the association, meet health and building standards, and pay for
+the electricity usage, maintenance, and other costs associated with the
+EV charging station until it is removed by the homeowner.
+
+(Reference [Revised Code of Washington 46.32-46.39, 64.32, 64.90](https://apps.leg.wa.gov/rcw/))",2022-03-11 00:00:00 UTC,,false,234,Laws and Regulations,"",2022-04-11 18:01:30 UTC,,,,"",ELEC|PHEV,"",AIRQEMISSIONS,FLEET|MUD|IND,https://apps.leg.wa.gov/rcw/,enacted,2022-03-11
+12876,WA,Electric Vehicle (EV) Charging Station Community Grant Program Authorization,"The Washington State Department of Transportation (WSDOT) is authorized
+to establish a grant program for local governments, federally recognized
+tribal governments, or utilities to deploy EV charging stations in rural
+areas, office buildings, multi-unit dwellings, ports, schools and school
+districts, and state and local government offices. Preference will be
+given to direct current fast charging (DCFC) projects.
+
+(Reference [Senate Bill 5693, 2022](https://apps.leg.wa.gov/billinfo/) and [Revised Code of Washington 42.330.101 and 42.330.102](https://apps.leg.wa.gov/rcw/))",2022-03-31 00:00:00 UTC,,false,240,Laws and Regulations,"",2022-04-11 18:05:05 UTC,,,,"",ELEC|PHEV,"",AIRQEMISSIONS,STATION|FLEET|GOV|MUD|IND|TRIBAL,https://apps.leg.wa.gov/billinfo/|https://apps.leg.wa.gov/rcw/|https://apps.leg.wa.gov/billinfo/,enacted,2022-03-31
+12923,WA,Washington's National Electric Vehicle Infrastructure (NEVI) Planning,"The U.S. Department of Transportation's (DOT) [NEVI Formula
+Program](https://afdc.energy.gov/laws/12744) requires the Washington
+Department of Transportation (WSDOT) to submit an annual EV
+Infrastructure Deployment Plan (Plan) to the DOT and U.S. Department of
+Energy (DOE) [Joint Office of Energy and
+Transportation](https://driveelectric.gov) (Joint Office), describing
+how the state intends to distribute NEVI funds. The submitted plans must
+be established according to [NEVI
+guidance](https://www.fhwa.dot.gov/environment/alternative_fuel_corridors/nominations/90d_nevi_formula_program_guidance.pdf).
+
+For more information about Washington's NEVI planning process, see the
+WSDOT
+[Plan](https://wsdot.wa.gov/construction-planning/statewide-plans/national-electrical-vehicle-infrastructure-plan)
+website. To review Washington's NEVI plan, see the Joint Office [State
+Plans for EV Charging](https://driveelectric.gov/state-plans/) website.
+",,,false,,State Incentives,"",2022-09-14 21:13:17 UTC,,,,"",ELEC|PHEV,GNT,"",STATION|GOV,"",,

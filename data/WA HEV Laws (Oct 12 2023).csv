@@ -1,0 +1,11 @@
+Law Id,State,Title,Text,Enacted Date,Amended Date,Recent?,Sequence Number,Type,Agency,Significant Update Date,Expired Date,Archived Date,Repealed Date,Topic,Technology Categories,Incentive Categories,Regulation Categories,User Categories,References,Status,Status Date
+9974,WA,Electric Vehicle (EV) Fee,"Owners of all-electric and plug-in hybrid electric vehicles with an
+all-electric range of at least 30 miles must pay an annual registration
+fee of \$150 and a \$75 transportation electrification fee in addition
+to standard vehicle fees. The transportation electrification fee
+contributes to state programs supporting the adoption of EVs and
+deployment of EV charging infrastructure. Hybrid electric vehicles and
+electric motorcycles are also subject to an additional annual fee of
+\$75 and \$30, respectively.
+
+(Reference [Revised Code of Washington 46.17.323-324](http://apps.leg.wa.gov/rcw/))",2012-03-23 00:00:00 UTC,2022-03-24 00:00:00 UTC,false,100,Laws and Regulations,"",2023-01-20 15:51:15 UTC,,,,"",ELEC|HEV|PHEV,"",EVFEE|FUEL,FLEET|IND,http://apps.leg.wa.gov/rcw/|http://leg.wa.gov/|http://apps.leg.wa.gov/rcw/|https://apps.leg.wa.gov/billinfo/,amended,2022-03-24

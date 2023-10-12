@@ -1,8 +1,18 @@
 \documentclass{article}
 \usepackage{
+    xcolor,
     hyperref,
-    geometry
+    geometry,
+    multicol
 }
+\hypersetup{
+    colorlinks,
+    linkcolor={green!50!black},
+    citecolor={red!50!black},
+    urlcolor={blue!80!black}
+}
+\geometry{margin=1in}
+
 
 \title{CSC 805 - Data Visualization\\\large Visualization Project - Phase 2}
 \author{Jijeong Lee, Parth Panchal, Mark Kim}
@@ -14,7 +24,35 @@
 \section*{Wireframe}
 
 \section*{Data}
-
+\subsection*{Source}
+\href{https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2}{Washington State Electric Vehicle Population Data}\vspace*{5pt}\\
+\href{https://afdc.energy.gov/data_download}{Alternative Fuel Stations By State (Updated 10-12-2023)}\vspace*{5pt}\\
+\href{https://afdc.energy.gov/data_download}{Washington State EV Laws and Incentives}\vspace*{5pt}\\
+\href{https://www.atlasevhub.com/materials/state-ev-registration-data/}{EV
+Registration Data By State} (This is a massive data set and requires further
+cleaning and integration):
+\begin{multicols}{4}
+    \begin{enumerate}
+        \item California
+        \item Colorado
+        \item Connecticut
+        \item Florida
+        \item Maine
+        \item Minnesota
+        \item Montana
+        \item New Jersey
+        \item New York
+        \item North Carolina
+        \item Oregon
+        \item Tennessee
+        \item Texas
+        \item Vermont
+        \item Virginia
+        \item Wisconsin
+    \end{enumerate}
+\end{multicols}
+\subsection*{Processed Data}
+\href{}{GitHub Repository of Data}
 \section*{Technologies}
 
 \end{document}
