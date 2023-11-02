@@ -1,0 +1,3 @@
+This folder contains very large csv's which are not being pushed to the github
+repo.  A remote data repository has not been created yet, but will become
+available once I get it going. -Mark
