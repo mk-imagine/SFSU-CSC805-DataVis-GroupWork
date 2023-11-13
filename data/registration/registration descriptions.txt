@@ -39,13 +39,13 @@ UPDATED: 6/24/2023
 Virginia (instead of ZIP Code, County)
 UPDATED: 12/31/2022
 
-State:
-ZIP Code:
-Registration Date:
-Vehicle Make:
-Vehicle Model:
+* State:
+* ZIP Code:
+* Registration Date:
+* Vehicle Make:
+* Vehicle Model:
 Vehicle Model Year:
-Drivetrain Type: BEV / PHEV
+* Drivetrain Type: BEV / PHEV
 Vehicle GVWR Class: 1
 Vehicle Category: Light-Duty
 Vehicle Count:

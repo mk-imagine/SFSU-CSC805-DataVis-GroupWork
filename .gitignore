@@ -37,3 +37,5 @@
 # Large Files
 ca_ev_registrations_public.csv
 /data/registration/*.csv
+/data/registration/ca_chunks
+/data/registration/*.geojson
