@@ -15,18 +15,18 @@ function Main() {
         </div>
         <div className="sub">Here are the 3 features:</div>
         <div className="sub">
-          <Link to="/chart1">Regional Detail</Link> : Discover which regions
-          lead the way in EV adoption and explore the factors that are driving
-          this trend.
+          <Link to="/regional-detail">Regional Detail</Link> : Discover which
+          regions lead the way in EV adoption and explore the factors that are
+          driving this trend.
         </div>
         <div className="sub">
-          <Link to="/chart2">EV Trends</Link> : Get to know the most preferred
-          EV brands and models, and analyze consumer preferences.
+          <Link to="/ev-trends">EV Trends</Link> : Get to know the most
+          preferred EV brands and models, and analyze consumer preferences.
         </div>
         <div className="sub">
-          <Link to="/chart3">Charging Infrastructure</Link> : Understand how
-          charging stations influence EV adoption and their availability across
-          the state.
+          <Link to="/charging-infrastructure">Charging Infrastructure</Link> :
+          Understand how charging stations influence EV adoption and their
+          availability across the state.
         </div>
       </p>
     </div>
