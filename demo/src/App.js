@@ -1,25 +1,48 @@
-import React, { useEffect, useRef } from 'react';
-import './App.css';
-import tableau from 'tableau-api';
+import React from "react";
+import { Route, Routes, Link, useMatch } from "react-router-dom";
+import Main from "./Tableau/Main";
+import Chart1 from "./Tableau/RegionalDetail";
+import Chart2 from "./Tableau/EVTrends";
+import Chart3 from "./Tableau/ChargingInfrastructure";
 
-function App() {
-  const vizContainer = useRef(null);
-
-  const initTableau = () => {
-    const vizUrl = 'http://public.tableau.com/views/RegionalSampleWorkbook/Storms';
-    let viz = new window.tableau.Viz(vizContainer.current, vizUrl);
-  };
-
-  useEffect(() => {
-    initTableau();
-  }, [])
-
+const App = () => {
   return (
-    <div className="App">
-      <h1>This is React + tableau Demo</h1>
-      <div ref={vizContainer} style={{ padding: "20px" }}></div>
+    <div>
+      <nav className="nav">
+        <Link id="highlight" className="navItem" to="/">
+          EVInsightIQ
+        </Link>
+        <Link
+          select
+          id={useMatch("/regional-detail") ? "selected" : null}
+          className="navItem"
+          to="/regional-detail"
+        >
+          Regional Detail
+        </Link>
+        <Link
+          id={useMatch("/ev-trends") ? "selected" : null}
+          className="navItem"
+          to="/ev-trends"
+        >
+          EV Trends
+        </Link>
+        <Link
+          id={useMatch("/charging-infrastructure") ? "selected" : null}
+          className="navItem"
+          to="/charging-infrastructure"
+        >
+          Charging Infrastructure
+        </Link>
+      </nav>
+      <Routes>
+        <Route path="/" element={<Main />} />
+        <Route path="/regional-detail" element={<Chart1 />} />
+        <Route path="/ev-trends" element={<Chart2 />} />
+        <Route path="/charging-infrastructure" element={<Chart3 />} />
+      </Routes>
     </div>
   );
-}
+};
 
 export default App;
