@@ -7,7 +7,7 @@ function ChargingInfrastructure() {
 
   const initTableau = () => {
     const vizUrl =
-      "http://public.tableau.com/views/RegionalSampleWorkbook/Storms";
+      "https://public.tableau.com/views/inf_dash/inf_dash";
     let viz = new window.tableau.Viz(vizContainer.current, vizUrl);
   };
 
