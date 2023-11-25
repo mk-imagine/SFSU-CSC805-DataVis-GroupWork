@@ -1,0 +1,78 @@
+California
+UPDATED: 12/31/2020
+
+Vehicle ID: Some ID number that CA gives
+County GEOID: Congressional District GEOID from US Census
+Registration Valid Date: Date of Registration
+DMV ID: ???
+DMV Snapshot: Data Provenance
+Registration Expiration Date: NULL for all
+State Abbreviation:
+Geography:  County for all
+Vehicle Name:  <make> <model>
+
+
+Colorado
+UPDATED: 10/7/2023
+Connecticut
+UPDATED: 7/12/2023
+Maine
+UPDATED: 10/1/2023
+Minnesota
+UPDATED: 7/1/2023
+Montana (instead of ZIP Code, County)
+UPDATED: 12/19/2022
+New Jersey
+UPDATED: 6/30/2023
+New York
+UPDATED: 10/2/2023
+North Carolina
+UPDATED: 2/8/2023
+Oregon
+UPDATED: 9/15/2023
+Tennessee (instead of ZIP Code, County)
+UPDATED: 9/30/2023
+Texas
+UPDATED: 10/1/2023
+Vermont
+UPDATED: 6/24/2023
+Virginia (instead of ZIP Code, County)
+UPDATED: 12/31/2022
+
+* State:
+* ZIP Code:
+* Registration Date:
+* Vehicle Make:
+* Vehicle Model:
+Vehicle Model Year:
+* Drivetrain Type: BEV / PHEV
+Vehicle GVWR Class: 1
+Vehicle Category: Light-Duty
+Vehicle Count:
+DMV Snapshot ID: ???
+DMV Snapshot (Date):
+Latest DMV Snapshot Flag
+
+
+Florida
+UPDATED: 7/19/2021
+DMV ID:
+DMV Snapshot (Date):
+County: 
+Vehicle Name: <make> <model>
+Registration Valid Date:
+Registration Expiration Date:  EMPTY for all
+Technology: BEV / PHEV
+
+Wisconsin
+UPDATED: 1/1/2022
+DMV ID:
+DMV Snapshot (Date):
+ZIP Code:
+VIN Prefix:
+VIN Model Year:
+Registration Valid Date:
+Registration Expiration Date:
+Make:
+Model:
+Model Year:
